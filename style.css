@@ -13,7 +13,20 @@ p {
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 }
 
+#number {
+    font-size: 40px;
+    text-align:center;
+
+}
+
+#history {
+    font-size: 15px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
 img { 
     border-radius:20px;
     align-items: center;
+    length: 90px;
+    width: 60px;
 }

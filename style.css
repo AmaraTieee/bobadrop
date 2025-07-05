@@ -1,0 +1,19 @@
+body {
+    /* five diff features of styling */
+    background-color:rgb(145, 76, 84);
+    text-align:center;
+    color:rgb(211, 194, 164);
+}
+h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+
+p {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+img { 
+    border-radius:20px;
+    align-items: center;
+}
